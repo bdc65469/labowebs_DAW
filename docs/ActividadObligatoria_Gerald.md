@@ -367,3 +367,19 @@ Por último vamos a hacer el `pull` para que nuestro repositorio remoto y local 
   Vemos como en github se ha subio nuestro fichero `script.js` con la última versión
 
   ![image-20241115090145371](./ActividadObligatoria_Gerald.assets/image-20241115090145371.png)
+
+<div style="page-break-after: always; break-after: page; "></div>
+
+
+
+## Subida documentación
+
+Dentro de la carpeta donde esta el repositorio local, creamos la carpeta docs
+
+![image-20241115101104543](./ActividadObligatoria_Gerald.assets/image-20241115101104543.png)
+
+![image-20241115101140445](./ActividadObligatoria_Gerald.assets/image-20241115101140445.png)
+
+Ahora con sourcetree añadimos los archivos, hacemos el commit y hacemos el push para tenerlo en el repositorio remoto
+
+![image-20241115101750297](./ActividadObligatoria_Gerald.assets/image-20241115101750297.png)
